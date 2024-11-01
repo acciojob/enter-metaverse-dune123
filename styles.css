@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.container{
+    display: flex;
+    flex-direction: column;
+    gap:5vh;
+}
+
+.container button{
+    width:100px;
+    height:20px;
+}
